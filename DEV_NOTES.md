@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Tested build on clean environment
 - Resolved deprecation warnings
+
+## 2026-03-23
+- Added type hints to helper functions
+- Reviewed open issues, added labels
+- Checked for memory leaks in long-running path
