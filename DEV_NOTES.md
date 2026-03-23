@@ -4,3 +4,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-22
 - Consolidated duplicate helper functions
+
+## 2026-03-23
+- Refactored module structure for clarity
+- Added inline documentation for core functions
+- Added CONTRIBUTING.md stub
